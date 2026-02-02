@@ -1,5 +1,4 @@
 let name='satya'
-let abc=10
 let age=20;
 const balance=300;
 
@@ -11,3 +10,4 @@ updateBalance();
 
 console.log(balance);
 
+console.log("money honey bug fixed");
