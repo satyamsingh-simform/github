@@ -1,3 +1,2 @@
-while(true){
-    console.log("1");
-}
+let name='satya'
+let abc=10
