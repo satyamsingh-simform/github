@@ -11,3 +11,4 @@ updateBalance();
 console.log(balance);
 
 console.log("money honey bug fixed");
+console.log("bug final commit");
