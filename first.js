@@ -11,5 +11,3 @@ updateBalance();
 console.log(balance);
 console.log("Bug branch pe work ho raha hai or hum idher main me v change kr diye to isse merge conflict jarur aayega");
 
-console.log("money honey bug fixed");
-console.log("bug final commit");
